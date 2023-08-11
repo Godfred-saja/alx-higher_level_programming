@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 f __name__ == "__main__":
 import sys
 i = len(sys.argv) - 1
